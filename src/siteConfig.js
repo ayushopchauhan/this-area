@@ -1,5 +1,5 @@
 // Auto-generated siteConfig for This area
-// Generated: 2026-04-23T05:44:00.500Z
+// Generated: 2026-04-23T16:22:33.626Z
 
 const siteConfig = {
   "business": {
@@ -7,8 +7,8 @@ const siteConfig = {
     "ownerName": "This area",
     "ownerFirstName": "This",
     "tagline": "Reliable Plumbing in Phoenix",
-    "description": "Providing trusted plumbing services in Phoenix for over a decade. Specializing in both residential and commercial plumbing solutions.",
-    "story": "This area has been serving the Phoenix community with reliable plumbing services for 10 years. Our team is dedicated to ensuring customer satisfaction with every job. We offer a range of services to meet all your plumbing needs.",
+    "description": "Serving Phoenix with reliable plumbing services for over a decade. We ensure quality and efficiency in every job.",
+    "story": "This area has been providing plumbing services in Phoenix for 10 years. Our team is dedicated to delivering top-notch service. We focus on customer satisfaction and timely solutions.",
     "founded": 0,
     "licenseNumber": "",
     "insuranceProvider": "",
@@ -19,7 +19,7 @@ const siteConfig = {
   },
   "contact": {
     "phone": "+918160764038",
-    "phoneDisplay": "+91 8160764038",
+    "phoneDisplay": "+91 81607 64038",
     "email": "",
     "address": "",
     "city": "Phoenix",
@@ -27,7 +27,7 @@ const siteConfig = {
     "zip": "",
     "fullAddress": "Phoenix",
     "emergencyPhone": "+918160764038",
-    "emergencyPhoneDisplay": "+91 8160764038",
+    "emergencyPhoneDisplay": "+91 81607 64038",
     "hours": "Call for hours | Emergency 24/7"
   },
   "credentials": {
@@ -41,11 +41,11 @@ const siteConfig = {
   },
   "hero": {
     "backgroundImage": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=2000&q=80",
-    "headline": "Expert Plumbing in Phoenix",
-    "subheadline": "Your trusted local plumbers for all needs.",
+    "headline": "Top Plumbers in Phoenix",
+    "subheadline": "Expert plumbing services for your home.",
     "ctaText": "Get a Free Quote",
     "emergencyCtaText": "Emergency? Call Now",
-    "urgencyBadge": "Available 24/7"
+    "urgencyBadge": "24/7 Service Available"
   },
   "trustBar": [
     {
@@ -54,19 +54,19 @@ const siteConfig = {
     },
     {
       "icon": "Star",
-      "label": "4.6 Star Rating"
+      "label": "Customer Satisfaction"
     },
     {
       "icon": "CheckCircle",
-      "label": "2000+ Jobs Completed"
+      "label": "Reliable Service"
     },
     {
       "icon": "Award",
-      "label": "98% Satisfaction Rate"
+      "label": "Trusted Local Experts"
     },
     {
       "icon": "Clock",
-      "label": "45 min Avg Response"
+      "label": "Fast Response Time"
     }
   ],
   "stats": [
@@ -94,68 +94,68 @@ const siteConfig = {
   "services": [
     {
       "name": "Drain Cleaning",
-      "description": "Efficient drain cleaning services to clear blockages.",
+      "description": "Efficient removal of clogs and blockages.",
       "icon": "Wrench",
       "priceRange": "$99-$299",
       "popular": true,
       "features": [
-        "Fast service",
-        "Effective results"
+        "Quick service",
+        "Effective solutions"
       ]
     },
     {
       "name": "Water Heater Installation",
-      "description": "Professional installation of all types of water heaters.",
+      "description": "Professional installation of new water heaters.",
       "icon": "ThermometerSun",
       "priceRange": "$800-$2500",
       "popular": true,
       "features": [
-        "Energy efficient models",
+        "Energy-efficient models",
         "Expert installation"
       ]
     },
     {
       "name": "Pipe Repair",
-      "description": "Reliable pipe repair services for leaks and damages.",
+      "description": "Repairing leaks and damaged pipes.",
       "icon": "Droplets",
       "priceRange": "$150-$500",
       "popular": false,
       "features": [
-        "Quick repairs",
-        "Long-lasting solutions"
+        "Durable repairs",
+        "Leak prevention"
       ]
     },
     {
       "name": "Toilet Repair",
-      "description": "Comprehensive toilet repair services for all issues.",
-      "icon": "Toilet",
+      "description": "Fixing leaks and running toilets.",
+      "icon": "Wrench",
       "priceRange": "$100-$350",
       "popular": false,
       "features": [
-        "Leak fixes",
-        "Flush mechanism repairs"
+        "Quick fixes",
+        "Prevent water waste"
       ]
     },
     {
       "name": "Faucet Installation",
-      "description": "Expert faucet installation for kitchens and bathrooms.",
-      "icon": "Faucet",
+      "description": "Installing new faucets and fixtures.",
+      "icon": "Droplets",
       "priceRange": "$150-$400",
       "popular": false,
       "features": [
-        "Wide selection",
-        "Professional fitting"
+        "Modern designs",
+        "Professional installation"
       ]
     },
     {
       "name": "Sewer Line Services",
-      "description": "Complete sewer line services including cleaning and repair.",
-      "icon": "Pipe",
+      "description": "Comprehensive sewer line repair and replacement.",
+      "icon": "Wrench",
       "priceRange": "$1000-$5000",
       "popular": false,
       "features": [
-        "Camera inspections",
-        "Trenchless repair options"
+        "Advanced diagnostics",
+        "Long-lasting solutions"
       ]
     }
   ],
@@ -163,25 +163,25 @@ const siteConfig = {
     {
       "step": 1,
       "title": "Call",
-      "description": "Contact us to discuss your plumbing needs.",
+      "description": "Reach out to us for immediate assistance.",
       "icon": "Phone"
     },
     {
       "step": 2,
       "title": "Assessment",
-      "description": "We assess the situation and provide a solution.",
+      "description": "We evaluate the issue and provide solutions.",
       "icon": "ClipboardCheck"
     },
     {
       "step": 3,
       "title": "Repair",
-      "description": "Our experts carry out the necessary repairs.",
+      "description": "Our experts fix the problem efficiently.",
       "icon": "Wrench"
     },
     {
       "step": 4,
       "title": "Satisfaction",
-      "description": "We ensure your complete satisfaction with our service.",
+      "description": "We ensure you're satisfied with our work.",
       "icon": "ThumbsUp"
     }
   ],
@@ -189,41 +189,41 @@ const siteConfig = {
   "serviceAreas": [
     {
       "name": "Scottsdale",
-      "description": "Fast and reliable plumbing services.",
-      "responseTime": "45 min"
+      "description": "Providing expert plumbing services in Scottsdale.",
+      "responseTime": "45-60 minutes"
     },
     {
       "name": "Tempe",
-      "description": "Expert plumbing solutions for your home.",
-      "responseTime": "45 min"
+      "description": "Reliable plumbing solutions in Tempe.",
+      "responseTime": "45-60 minutes"
     },
     {
       "name": "Mesa",
-      "description": "Professional plumbing services available.",
-      "responseTime": "45 min"
+      "description": "Fast and efficient plumbing in Mesa.",
+      "responseTime": "45-60 minutes"
     },
     {
       "name": "Chandler",
-      "description": "Quality plumbing services you can trust.",
-      "responseTime": "45 min"
+      "description": "Trusted plumbing services in Chandler.",
+      "responseTime": "45-60 minutes"
     }
   ],
   "faq": [
     {
-      "question": "What should I do if I have a plumbing emergency?",
-      "answer": "Turn off the main water supply and call a plumber immediately."
-    },
-    {
-      "question": "How can I prevent pipes from freezing?",
-      "answer": "Insulate pipes and keep your home warm during cold weather."
-    },
-    {
-      "question": "Why is my water bill so high?",
-      "answer": "Check for leaks in toilets, faucets, and irrigation systems."
+      "question": "What should I do in case of a plumbing emergency?",
+      "answer": "Turn off the main water supply and call a professional plumber immediately."
     },
     {
       "question": "How often should I have my plumbing inspected?",
-      "answer": "It's recommended to have a plumbing inspection annually."
+      "answer": "It's recommended to have a plumbing inspection annually to prevent major issues."
+    },
+    {
+      "question": "What are common signs of a plumbing problem?",
+      "answer": "Look for leaks, slow drains, unusual noises, or low water pressure."
+    },
+    {
+      "question": "How can I prevent frozen pipes?",
+      "answer": "Insulate pipes and keep your home heated during cold weather."
     }
   ],
   "costEstimator": {
@@ -271,13 +271,13 @@ const siteConfig = {
       {
         "id": "burst-pipe",
         "title": "Burst Pipe",
-        "description": "A pipe has burst causing water to leak.",
+        "description": "A pipe has burst causing water damage.",
         "severity": "critical",
         "icon": "Droplets",
         "immediateSteps": [
           "Turn off the main water supply.",
           "Move valuables away from the water.",
-          "Call a plumber immediately."
+          "Call us immediately for repair."
         ],
         "estimatedResponse": "30-60 minutes"
       },
@@ -289,21 +289,21 @@ const siteConfig = {
         "icon": "ThermometerSun",
         "immediateSteps": [
           "Check the thermostat settings.",
-          "Inspect for any visible leaks.",
-          "Contact a plumber for assistance."
+          "Ensure the pilot light is on.",
+          "Contact us for a water heater check."
         ],
-        "estimatedResponse": "60-90 minutes"
+        "estimatedResponse": "1-2 hours"
       },
       {
         "id": "gas-smell",
         "title": "Gas Smell",
-        "description": "You smell gas near your plumbing fixtures.",
+        "description": "You smell gas in your home.",
         "severity": "critical",
         "icon": "AlertTriangle",
         "immediateSteps": [
           "Evacuate the area immediately.",
-          "Do not use any electrical devices.",
-          "Call emergency services and a plumber."
+          "Do not use electrical devices.",
+          "Call emergency services and us."
         ],
         "estimatedResponse": "Immediate"
       },
@@ -311,27 +311,27 @@ const siteConfig = {
         "id": "sewage-backup",
         "title": "Sewage Backup",
         "description": "Sewage is backing up into your home.",
-        "severity": "critical",
+        "severity": "urgent",
         "icon": "Wrench",
         "immediateSteps": [
           "Avoid using water fixtures.",
           "Keep children and pets away.",
-          "Contact a plumber immediately."
+          "Contact us for emergency service."
         ],
-        "estimatedResponse": "30-60 minutes"
+        "estimatedResponse": "1-2 hours"
       },
       {
         "id": "frozen-pipes",
         "title": "Frozen Pipes",
-        "description": "Pipes have frozen due to cold weather.",
+        "description": "Pipes are frozen and might burst.",
         "severity": "moderate",
-        "icon": "CloudRain",
+        "icon": "Snowflake",
         "immediateSteps": [
           "Open faucets to relieve pressure.",
           "Apply heat to the frozen section.",
-          "Call a plumber if pipes are damaged."
+          "Call us if pipes do not thaw."
         ],
-        "estimatedResponse": "60-120 minutes"
+        "estimatedResponse": "2-3 hours"
       }
     ]
   },
@@ -341,80 +341,80 @@ const siteConfig = {
         "id": "running-toilet",
         "name": "Running Toilet",
         "icon": "Droplets",
-        "description": "A toilet that runs constantly can waste a lot of water.",
+        "description": "A toilet that constantly runs.",
         "gallonsPerDay": 200,
-        "costPerMonth": 30
+        "costPerMonth": 20
       },
       {
         "id": "dripping-faucet",
         "name": "Dripping Faucet",
         "icon": "ShowerHead",
-        "description": "A dripping faucet can waste gallons of water daily.",
+        "description": "A faucet that drips continuously.",
         "gallonsPerDay": 5,
-        "costPerMonth": 5
+        "costPerMonth": 1
       },
       {
         "id": "leaky-pipe",
         "name": "Leaky Pipe",
         "icon": "Waves",
-        "description": "A small leak can lead to significant water loss.",
+        "description": "A pipe that leaks water.",
         "gallonsPerDay": 10,
-        "costPerMonth": 10
+        "costPerMonth": 3
       },
       {
         "id": "old-water-heater",
         "name": "Old Water Heater",
-        "icon": "Gauge",
-        "description": "Inefficient water heaters can increase energy costs.",
+        "icon": "ThermometerSun",
+        "description": "An inefficient water heater.",
         "gallonsPerDay": 0,
-        "costPerMonth": 25
+        "costPerMonth": 15
       },
       {
         "id": "irrigation-leak",
         "name": "Irrigation Leak",
         "icon": "CloudRain",
-        "description": "Leaks in irrigation systems can waste a lot of water.",
+        "description": "A leak in the irrigation system.",
         "gallonsPerDay": 50,
-        "costPerMonth": 20
+        "costPerMonth": 10
       }
     ]
   },
   "healthQuiz": {
     "questions": [
       {
-        "id": "leaks-visible",
-        "question": "Do you see any visible leaks in your home?",
-        "yesScore": 0,
-        "noScore": 2,
-        "explanation": "Visible leaks should be repaired immediately to prevent damage."
+        "id": "check-leaks",
+        "question": "Do you regularly check for leaks?",
+        "yesScore": 2,
+        "noScore": 0,
+        "explanation": "Regular checks can prevent major issues."
       },
       {
         "id": "water-pressure",
         "question": "Is your water pressure consistent?",
         "yesScore": 2,
         "noScore": 0,
-        "explanation": "Inconsistent pressure may indicate a plumbing issue."
+        "explanation": "Inconsistent pressure may indicate a problem."
       },
       {
         "id": "drain-speed",
         "question": "Do your drains empty quickly?",
         "yesScore": 2,
         "noScore": 0,
-        "explanation": "Slow drains could be a sign of blockages."
+        "explanation": "Slow drains can lead to clogs."
       },
       {
-        "id": "noise-pipes",
-        "question": "Do your pipes make noise?",
+        "id": "water-bill",
+        "question": "Has your water bill increased unexpectedly?",
         "yesScore": 0,
         "noScore": 2,
-        "explanation": "Noisy pipes might indicate air or pressure problems."
+        "explanation": "An increase may suggest a hidden leak."
       },
       {
-        "id": "water-heater-age",
-        "question": "Is your water heater less than 10 years old?",
+        "id": "appliance-age",
+        "question": "Are your plumbing appliances less than 10 years old?",
         "yesScore": 2,
         "noScore": 0,
-        "explanation": "Older water heaters are less efficient and more prone to failure."
+        "explanation": "Older appliances may need replacement."
       }
     ],
     "results": {
@@ -454,13 +454,13 @@ const siteConfig = {
         "season": "winter",
         "tasks": [
           {
-            "task": "Insulate Pipes",
-            "description": "Ensure all exposed pipes are insulated to prevent freezing.",
+            "task": "Check for Frozen Pipes",
+            "description": "Inspect and insulate pipes to prevent freezing.",
             "priority": "high"
           },
           {
-            "task": "Check Water Heater",
-            "description": "Inspect your water heater for any signs of wear or leaks.",
+            "task": "Inspect Water Heater",
+            "description": "Ensure the water heater is functioning efficiently.",
             "priority": "medium"
           }
         ]
@@ -470,14 +470,14 @@ const siteConfig = {
         "season": "winter",
         "tasks": [
           {
-            "task": "Inspect Faucets",
-            "description": "Check all faucets for drips and repair as needed.",
-            "priority": "medium"
+            "task": "Test Sump Pump",
+            "description": "Ensure the sump pump is operational for spring.",
+            "priority": "high"
           },
           {
-            "task": "Test Sump Pump",
-            "description": "Ensure your sump pump is functioning properly.",
-            "priority": "high"
+            "task": "Check for Leaks",
+            "description": "Inspect all plumbing for potential leaks.",
+            "priority": "medium"
           }
         ]
       },
@@ -487,13 +487,13 @@ const siteConfig = {
         "tasks": [
           {
             "task": "Clean Gutters",
-            "description": "Remove debris from gutters to prevent water damage.",
+            "description": "Remove debris to prevent water damage.",
             "priority": "medium"
           },
           {
-            "task": "Inspect Hose Bibs",
-            "description": "Check outdoor hose bibs for leaks as temperatures rise.",
-            "priority": "low"
+            "task": "Inspect Outdoor Faucets",
+            "description": "Check for leaks and damage from winter.",
+            "priority": "medium"
           }
         ]
       },
@@ -502,13 +502,13 @@ const siteConfig = {
         "season": "spring",
         "tasks": [
           {
-            "task": "Check for Leaks",
-            "description": "Inspect your home for any new leaks after winter.",
+            "task": "Check Irrigation System",
+            "description": "Ensure the system is leak-free and operational.",
             "priority": "high"
           },
           {
-            "task": "Service Water Heater",
-            "description": "Schedule a professional water heater service.",
+            "task": "Inspect Sewer Line",
+            "description": "Look for signs of blockage or damage.",
             "priority": "medium"
           }
         ]
@@ -518,13 +518,13 @@ const siteConfig = {
         "season": "spring",
         "tasks": [
           {
-            "task": "Inspect Irrigation System",
-            "description": "Check your irrigation system for leaks or damage.",
+            "task": "Test Water Pressure",
+            "description": "Ensure consistent water pressure throughout the home.",
             "priority": "medium"
           },
           {
-            "task": "Test Water Pressure",
-            "description": "Ensure your home's water pressure is within normal range.",
+            "task": "Inspect Faucets",
+            "description": "Check for drips and repair as needed.",
             "priority": "low"
           }
         ]
@@ -534,13 +534,13 @@ const siteConfig = {
         "season": "summer",
         "tasks": [
           {
-            "task": "Inspect AC Drain",
-            "description": "Ensure your air conditioner's drain line is clear.",
-            "priority": "high"
+            "task": "Check for Pipe Sweating",
+            "description": "Inspect pipes for condensation and insulate if necessary.",
+            "priority": "medium"
           },
           {
-            "task": "Check Pool Plumbing",
-            "description": "Inspect pool plumbing for leaks or issues.",
+            "task": "Inspect Water Heater",
+            "description": "Flush and inspect for efficiency.",
             "priority": "medium"
           }
         ]
@@ -550,14 +550,14 @@ const siteConfig = {
         "season": "summer",
         "tasks": [
           {
-            "task": "Monitor Water Usage",
-            "description": "Keep an eye on water usage to catch leaks early.",
-            "priority": "medium"
+            "task": "Inspect Sprinkler System",
+            "description": "Ensure proper operation and coverage.",
+            "priority": "high"
           },
           {
-            "task": "Inspect Sprinkler Heads",
-            "description": "Check sprinkler heads for damage or clogs.",
-            "priority": "low"
+            "task": "Check for Leaks",
+            "description": "Inspect all plumbing for potential leaks.",
+            "priority": "medium"
           }
         ]
       },
@@ -566,13 +566,13 @@ const siteConfig = {
         "season": "summer",
         "tasks": [
           {
-            "task": "Check for Mold",
-            "description": "Inspect areas around plumbing for signs of mold.",
+            "task": "Test Sump Pump",
+            "description": "Ensure the sump pump is operational for fall.",
             "priority": "high"
           },
           {
-            "task": "Flush Water Heater",
-            "description": "Flush your water heater to remove sediment buildup.",
+            "task": "Inspect Outdoor Faucets",
+            "description": "Check for leaks and repair as needed.",
             "priority": "medium"
           }
         ]
@@ -582,13 +582,13 @@ const siteConfig = {
         "season": "fall",
         "tasks": [
           {
-            "task": "Inspect Roof",
-            "description": "Check your roof for leaks before the rainy season.",
-            "priority": "high"
+            "task": "Clean Gutters",
+            "description": "Remove debris to prevent water damage.",
+            "priority": "medium"
           },
           {
-            "task": "Seal Gaps",
-            "description": "Seal any gaps around pipes entering your home.",
+            "task": "Inspect Sewer Line",
+            "description": "Look for signs of blockage or damage.",
             "priority": "medium"
           }
         ]
@@ -598,13 +598,13 @@ const siteConfig = {
         "season": "fall",
         "tasks": [
           {
-            "task": "Winterize Sprinklers",
-            "description": "Prepare your sprinkler system for winter.",
-            "priority": "high"
+            "task": "Check for Pipe Sweating",
+            "description": "Inspect pipes for condensation and insulate if necessary.",
+            "priority": "medium"
           },
           {
-            "task": "Check Boiler",
-            "description": "Ensure your boiler is ready for the colder months.",
+            "task": "Inspect Water Heater",
+            "description": "Flush and inspect for efficiency.",
             "priority": "medium"
           }
         ]
@@ -614,14 +614,14 @@ const siteConfig = {
         "season": "fall",
         "tasks": [
           {
-            "task": "Inspect Chimney",
-            "description": "Check your chimney for blockages or leaks.",
+            "task": "Test Water Pressure",
+            "description": "Ensure consistent water pressure throughout the home.",
             "priority": "medium"
           },
           {
-            "task": "Test Smoke Alarms",
-            "description": "Ensure all smoke alarms are functioning properly.",
-            "priority": "high"
+            "task": "Inspect Faucets",
+            "description": "Check for drips and repair as needed.",
+            "priority": "low"
           }
         ]
       },
@@ -630,13 +630,13 @@ const siteConfig = {
         "season": "winter",
         "tasks": [
           {
-            "task": "Check Insulation",
-            "description": "Ensure your home's insulation is adequate for winter.",
+            "task": "Check for Frozen Pipes",
+            "description": "Inspect and insulate pipes to prevent freezing.",
             "priority": "high"
           },
           {
-            "task": "Inspect Water Pipes",
-            "description": "Check all water pipes for signs of wear or leaks.",
+            "task": "Inspect Water Heater",
+            "description": "Ensure the water heater is functioning efficiently.",
             "priority": "medium"
           }
         ]
@@ -645,11 +645,11 @@ const siteConfig = {
   },
   "chatbot": {
     "name": "PlumbBot",
-    "greeting": "Hi! How can I assist you with your plumbing needs today?",
+    "greeting": "Hello! How can I assist you with your plumbing needs today?",
     "quickReplies": [
       "Schedule a Service",
       "Emergency Help",
-      "Request a Quote"
+      "Get a Quote"
     ]
   },
   "social": {
